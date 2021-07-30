@@ -2048,7 +2048,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.features section {
-				padding: 1em 1em 1em 1em ;
+				padding: 1em 1.5em 0.1em 1.5em ;
 			}
 
 				.features section .icon {
@@ -3633,7 +3633,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a.active {
-				color: #ffffff;
+				color: #b74e91;
 			}
 
 				#sidebar nav a.active:after {
